@@ -2,8 +2,8 @@
 from os import path as ospath
 from subprocess import run as srun
 
-UPSTREAM_REPO = "https://github.com/itsDev-Developer/manwa"  # SSH URL for private repo
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/itsDev-Developer/Mangav1"  # SSH URL for private repo
+UPSTREAM_BRANCH = "main"
 GITHUB_EMAIL = "srk100m@gmail.com"
 GITHUB_USERNAME = "SasukeXDev"
 
